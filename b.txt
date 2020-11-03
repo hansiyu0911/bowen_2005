@@ -1,20 +1,7 @@
-sdadadsada
-asdadad
-shdakjsjdj
-ajdsadnbvdabdas
-jasdjsajvjcbv
-haksdabsdbashd
-hjsadabndba
-iyqknqbdkoko,k
-nmabsndbdb
-nasndbad
-jlanslkdnlad
-sdadas
-asdadadsa
-ndeqwnmebqwq
-nkasjdisad
-nasndkjasnd
-kjaskdkbw
-sdsadsad
-asdasdsad
-asdsad
+b = 0
+for i in range (2,101):
+  for j in range (2,I):
+    if i // j == 0 :
+        break
+  else:
+    b += i
